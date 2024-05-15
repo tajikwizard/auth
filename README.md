@@ -68,7 +68,3 @@ npm run dev
 ```bash
 npm start
 ```
-
-```
-
-```
