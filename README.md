@@ -14,9 +14,9 @@ To get started with this project, follow these steps:
 
 ### Clone the Repository
 
-````bash
+```bash
 git clone https://github.com/your-username/your-project.git
-
+```
 
 ### Installation
 
@@ -24,16 +24,16 @@ git clone https://github.com/your-username/your-project.git
 
 1. Navigate to the `frontEnd` directory:
 
-```bash
+````bash
 cd frontEnd
-
+```
 
 
 2. Install dependencies:
 
 ```bash
 npm install
-
+```
 
 
 #### Backend
@@ -42,7 +42,7 @@ npm install
 
 ```bash
 cd cd backEnd
-
+```
 
 
 2. Install dependencies:
@@ -50,7 +50,7 @@ cd cd backEnd
 ```bash
 npm install
 
-
+```
 
 ### Start the Development Servers
 
@@ -60,7 +60,7 @@ npm install
 
 ```bash
 npm run dev
-
+```
 
 ### Start the Development Servers
 
@@ -70,4 +70,5 @@ npm run dev
 
 ```bash
 npm start
+```
 ````
