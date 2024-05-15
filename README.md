@@ -24,17 +24,15 @@ git clone https://github.com/your-username/your-project.git
 
 1. Navigate to the `frontEnd` directory:
 
-````bash
+```bash
 cd frontEnd
 ```
-
 
 2. Install dependencies:
 
 ```bash
 npm install
 ```
-
 
 #### Backend
 
@@ -43,7 +41,6 @@ npm install
 ```bash
 cd cd backEnd
 ```
-
 
 2. Install dependencies:
 
@@ -71,4 +68,7 @@ npm run dev
 ```bash
 npm start
 ```
-````
+
+```
+
+```
