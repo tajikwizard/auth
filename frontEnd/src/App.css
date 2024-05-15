@@ -1,0 +1,8 @@
+.wrapper {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  background: -webkit-linear-gradient(left, #003366, #004080, #0059b3, #0073e6);
+}
